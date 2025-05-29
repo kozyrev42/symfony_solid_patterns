@@ -7,3 +7,9 @@
 
 - Запуск встроенного сервера:`php -S localhost:8030 -t public`,
 `APP_ENV=dev php -S localhost:8030 -t public public/index.php`
+
+2. Принцип единственной ответственности (SRP — Single Responsibility Principle).
+ Гласит: "Класс должен иметь только одну причину для изменения".
+
+ Разобраны пример/анти-пример SRP.
+ 
